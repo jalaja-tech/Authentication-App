@@ -2,11 +2,8 @@
 <html>
 <head>
     <title>Authentication App</title>
-<<<<<<< HEAD
     <link rel="stylesheet" href="mystyle1.css">
-=======
     <link rel="stylesheet" href="css/mystyle1.css">
->>>>>>> afc4671d76d2c764fa845d881e36b9eebf679854
 </head>
 <body>
 <br/>
@@ -72,8 +69,4 @@ if(request.getParameter("btn") != null)
 %>
 
 </body>
-<<<<<<< HEAD
 </html>
-=======
-</html>
->>>>>>> afc4671d76d2c764fa845d881e36b9eebf679854
