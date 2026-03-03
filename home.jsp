@@ -21,7 +21,6 @@
 <body>
 
 <%
-    // Alert Messages
     String msg = request.getParameter("msg");
 
     if("success".equals(msg)){
