@@ -38,6 +38,8 @@ It is designed to run on **localhost using Apache Tomcat server**.
 
 ## -> Project Structure
 
+---
+
 auth_app/
 │
 ├── index.jsp
