@@ -38,15 +38,19 @@ It is designed to run on **localhost using Apache Tomcat server**.
 
 ## -> Project Structure
 
-```
 auth_app/
 │
-├── index.jsp        → Login Page
-├── signup.jsp       → Registration Page
-├── home.jsp         → Protected Home Page
-├── mystyle1.css     → Styling
-└── WEB-INF/
-```
+├── index.jsp
+├── signup.jsp
+├── home.jsp
+│
+├── css/
+│   └── mystyle1.css
+│
+├── database/
+│   └── schema.sql
+│
+└── README.md
 
 ---
 
