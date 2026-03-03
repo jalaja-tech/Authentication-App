@@ -5,8 +5,6 @@
         response.sendRedirect("index.jsp");
         return;
     }
-
-    // Logout Handling
     if(request.getParameter("logout") != null){
         session.invalidate();
         response.sendRedirect("index.jsp");
@@ -54,8 +52,4 @@
 </form>
 
 </body>
-<<<<<<< HEAD
 </html>
-=======
-</html>
->>>>>>> afc4671d76d2c764fa845d881e36b9eebf679854
