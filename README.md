@@ -1,6 +1,6 @@
 ## Authentication App
 
-A simple web-based Authentication System built using HTML, CSS, JSP, Java, and MySQL. This project demonstrates user registration, login validation, session management, alert messaging, and secure logout functionality using server-side processing.
+A simple web-based Authentication System built using HTML, CSS, JSP, JDBC, and MySQL. This project demonstrates user registration, login validation, session management, alert messaging, and secure logout functionality using server-side processing.
 
 ---
 
