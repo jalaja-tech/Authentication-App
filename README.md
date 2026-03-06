@@ -140,11 +140,9 @@ http://localhost:8080/k18_auth_app/
 
 ## → Future Improvements
 
-* Replace MD5 with BCrypt or Argon2
 * Add stronger input validation
 * Implement role-based access control
 * Separate business logic using Servlets (MVC architecture)
-* Add error handling pages
 * Deploy on cloud platform
 
 ---
